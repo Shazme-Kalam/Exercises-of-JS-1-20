@@ -26,4 +26,6 @@
 
 //## 7 Create a function that takes a number and return square of a number
 //Solution
-
+// var num = +prompt('Enter any number ', 'number');
+//  var _num =  num * num ; 
+//  console.log("Entered no.", num , " returns in square number. Result = " + _num);
